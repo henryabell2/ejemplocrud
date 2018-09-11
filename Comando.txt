@@ -1,0 +1,5 @@
+C:\Users\ACER>cd /xampp/htdocs/CRUD_PDO_SASS
+
+C:\xampp\htdocs\CRUD_PDO_SASS>sass --watch scss:dist/css
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+>>> Change detected to: scss/_variables.scss
